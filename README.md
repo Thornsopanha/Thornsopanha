@@ -6,6 +6,7 @@
 
 <p>&nbsp;<img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=Thornsopanha&show_icons=true&locale=en&theme=vue-dark&langs_count=10" alt="Thornsopanha" /></p>
 <h3 align="right">Languages:</h3>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thornsopanha&theme=radical&border_radius=2&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 <p align="right">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/ruby-original.svg" alt="Ruby" width="40" height="40"/>
